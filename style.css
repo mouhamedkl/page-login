@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(5, 18, 18);
+}
+fieldset.set{
+
+    
+    width: 350px;
+    height: 180px;
+    margin-left: 500px;
+    border-radius: 35px;
+    margin-top: 10%;
+    background-color: rgb(14, 75, 75);
+    box-shadow: 6px 6px 6px rgb(153, 214, 194),-6px 6px 6px rgb(153, 214, 194),-6px 6px 6px rgb(153, 214, 194);
+}
+#a1{
+    color: rgb(124, 75, 10);
+    background-color: black;
+    border-radius: 35px;
+    margin-left: 150px;
+    margin-top: 10px;
+    height: 50px;
+    width: 150px;
+}
+#mail{
+    width: 350px;
+    height: 25px;
+    border-radius: 20px;
+}
+#a{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 1em sans-serif;
+    font-size: larger;
+
+}
+#h1{
+    color: azure;
+    text-align: center;
+}
